@@ -1,0 +1,36 @@
+_repo: Confessions-of-a-Young-LadyHer-Doings-and-Misdoings_40354
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marsh, Richard
+    aliases:
+    - Heldman, Richard Bernard
+    - Heldmann, Bernard
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '1718'
+    url: http://www.gutenberg.org/2009/agents/1718
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Marsh_%28author%29
+description: ''
+gutenberg_issued: '2012-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Girls -- Fiction'
+- !lcsh 'Women -- Fiction'
+- !lcsh 'England -- Social life and customs -- Fiction'
+tableOfContents: A wonderful girl -- Cupid's messenger -- The ogre -- The handwriting
+  -- The People's Stock Exchange -- Breaking the ice -- A girl who couldn't -- The
+  Princess Margaretta -- The end of his holiday -- The girl and the boy -- A mutual
+  affinity -- Magical music -- A runaway wife.
+title: 'Confessions of a Young Lady: Her Doings and Misdoings'
+url: http://www.gutenberg.org/ebooks/40354
